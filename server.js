@@ -1,6 +1,6 @@
+require("dotenv").config()
 const express = require("express");
 const axios = require("axios")
-const dotenv = require("dotenv")
 const app = express();
 
 // Set the view engine to EJS
